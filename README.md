@@ -2,9 +2,7 @@
 
 ### I´m Moisés
 
-I´m 26 years old Jr System Engineer from Maturín-Venezuela. Currently i´m learning Backend with Python and i would like and i will to learn JS and Machine Learning. My interests is growing up in developing.
-
-
+I´m a 267 years old Jr System Engineer from Maturín-Venezuela. Currently I´m learning Backend with Python and I would like to learn JS and Machine Learning. My interests is growing up in developing.
 
 You can find me in:
 
