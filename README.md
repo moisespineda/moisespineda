@@ -6,8 +6,8 @@ I´m a 27 years old Jr System Engineer from Maturín-Venezuela. Currently I´m l
 
 You can find me in:
 
+Linkedin:www.linkedin.com/in/moisespineda 
 Twitter: @MoipiineJR
-
 Intagram: @moisespineda11
 
 <!--
